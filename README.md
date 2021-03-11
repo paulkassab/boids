@@ -24,3 +24,10 @@ Coded in C++ using SFML graphics library.
 
 -EntitiesAI will try to follow other entities detected through raycasting
 
+
+
+Areas for improvement:
+
+-Grid optimization: add a grid system to allow entities to only check other nearby entities, rather than each individual entity making computations for every other entity.
+
+-Entity AI: adjusting rotations according to facing angle of entities detected by rays.
