@@ -1,0 +1,69 @@
+﻿  entity.cpp
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(39): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(53): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(54): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(283): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(311): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(359): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(558): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(559): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(563): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(566): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\boids\boids\entity.cpp(567): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Boids.vcxproj -> C:\Users\Pops\Documents\VS2017Projects\Boids\Debug\Boids.exe
