@@ -16,7 +16,7 @@ Coded in C++ using SFML graphics library.
 
 -Buttons on the screen allow to control some parameters (physics, friction, collision). 
 
- Newly spawned entities have no acceleration physics, no collision and no friction by default. Toggle buttons twice to ensure all entities have same parameters.
+-Newly spawned entities have no acceleration physics, no collision and no friction by default. Toggle buttons twice to ensure all entities have same parameters.
  
 -Pausing allows for placement of entities in specific positions.
 
